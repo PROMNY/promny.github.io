@@ -8,24 +8,27 @@ permalink: /CV/
 Education
 ---------
 
-2018-
-:   **PhD, Theoretical Physics**; Jagiellonian University, Kraków.  
-    Condensed Matter Theory and Nanophysics Department.  
+2018-2022 (expected)  
+**PhD, Theoretical Physics**; Jagiellonian University, Kraków.  
+Condensed Matter Theory and Nanophysics Department.  
+Supervisor: prof. dr hab. Józef Spałek.
 
-    Supervisor: prof. dr hab. Józef Spałek
+2017-2018  
+**MSc, Theoretical Physics**; University of Silesia in Katowice.  
+Graduated one year earlier than expected, awarded with distinction.  
+Thesis title: Monte-Carlo study of Falicov-Kimball model out of half-filling on hexagonal lattice.  
+Supervisor: prof. dr hab. Maciej Maśka.
+
+2014-2017  
+**BSc, Physics**; University of Silesia in Katowice.  
+Awarded with distinction.  
+Thesis title: Properties of functionalized graphene.  
+Supervisor: prof. dr hab. Maciej Maśka.
 
 
+Conferences
+---------
 
-2017-2018
-:   **MSc, Theoretical Physics**; University of Silesia in Katowice.  
-    Graduated one year earlier than expected, awarded with distinction.  
-
-    Thesis title: Monte-Carlo study of Falicov-Kimball model out of half-filling on hexagonal lattice.  
-
-
-
-2014-2017
-:   **BSc, Physics**; University of Silesia in Katowice.  
-    Awarded with distinction.  
-
-    Thesis title: Properties of functionalized graphene.
+* 4-9.09.2016, Ustroń  
+ 40th International Conference of Theoretical Physics Correlations & Coherence at Different Scales   
+ **Poster about „Monte Carlo study of adatoms on graphene”**.
