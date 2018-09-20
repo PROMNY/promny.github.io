@@ -28,6 +28,12 @@ Supervisor: prof. dr hab. Maciej Maśka.
 
 Conferences
 ---------
+
+* 16-21.09.2018, Zakopane  
+ Fundamental Aspects of Superconductivity: 3rd International Conference on Superconductivity and Magnetism in Selected Systems   
+ **Poster about „Self-organization of adatoms on graphene”**.
+
+
 * 10-14.09.2018, Ustroń  
  42th International Conference of Theoretical Physics "Correlations & Coherence at Different Scales"   
  **Contributed talk about „Monte Carlo study of adatoms on graphene”**.
