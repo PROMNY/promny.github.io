@@ -8,7 +8,7 @@
     <div class="footer-col-wrapper">
       <div class="footer-col footer-col-1">
         <ul class="contact-list">
-          <li class="p-name">Paweł Promny</li><li><a class="u-email" href="mailto:p.promny@gmail.com">p.promny@gmail.com</a></li></ul>
+          <li class="p-name">Paweł Promnyaaaaaaa</li><li><a class="u-email" href="mailto:p.promny@gmail.com">p.promny@gmail.com</a></li></ul>
 
       </div>
 
@@ -23,5 +23,8 @@
     </div>
 
   </div>
+  {% if site.google_analytics and jekyll.environment == 'production' %}
+  {% include analytics.html %}
+  {% endif %}
 
 </footer>
