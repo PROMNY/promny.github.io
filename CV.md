@@ -35,7 +35,7 @@ Conferences
 
 
 * 10-14.09.2018, Ustroń  
- 42th International Conference of Theoretical Physics "Correlations & Coherence at Different Scales"   
+ 42nd International Conference of Theoretical Physics "Correlations & Coherence at Different Scales"   
  **Contributed talk about „Monte Carlo study of adatoms on graphene”**.
 
 * 4-9.09.2016, Ustroń  

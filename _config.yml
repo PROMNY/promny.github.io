@@ -15,7 +15,8 @@
 # in the templates via {{ site.myvariable }}.
 title: Paweł Promny
 email: p.promny@gmail.com
-description: Paweł Promny homepage
+description: >-
+  Paweł Promny homepage
 baseurl: ""
 url: promny.github.io # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: ""
