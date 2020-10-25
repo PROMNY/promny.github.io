@@ -44,10 +44,10 @@ title: About
     <br>
     <br>
 
-    My name is Paweł Promny. I am PhD student in the Department of Condensed Matter Theory and Nanophysics of Marian Smoluchowski Institute of Physics at Jagiellonian University in Kraków.
+    My name is Paweł Promny.
   </div>
   <div class="column right">
-    <img src="assets/Pawel_Promny.jpg" width="200">
+    <img src="assets/E2.jpg" width="200">
   </div>
 </div>
 
