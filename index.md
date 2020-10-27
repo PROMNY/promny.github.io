@@ -5,6 +5,13 @@
 layout: home
 title: Home
 
-
-
 ---
+
+<div style="text-align:center">
+<p style="font-family:'Courier New'; font-size:16px">
+Hi, I'm Paweł Promny. <br>
+Theoretical physicist, Linux enthusiast, data scientist wannabe.
+</p>
+</div>
+
+
